@@ -5,8 +5,8 @@ To create a report that includes what cryptocurrencies are on the trading market
 
 4 Primary tasks:
 
-Preprocessing the Data for PCA
-Reducing Data Dimensions Using PCA
-Clustering Cryptocurrencies Using K-means
-Visualizing Cryptocurrencies Results
+(1) Preprocessing the Data for PCA
+(2) Reducing Data Dimensions Using PCA
+(3) Clustering Cryptocurrencies Using K-means
+(4) Visualizing Cryptocurrencies Results
 
